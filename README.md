@@ -58,3 +58,7 @@ int main()
 
 OUTPUT :-
 <img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/d8cdca93-36b7-41e4-9ca8-756674927e30" />
+
+RESULT :-
+Thus,the program was successfully run.
+
