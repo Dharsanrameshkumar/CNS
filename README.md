@@ -13,9 +13,10 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 ## EXAMPLE:
 
+<img width="741" height="340" alt="image" src="https://github.com/user-attachments/assets/536616c8-0999-420a-b87a-12e91ab8354e" />
 
 
-<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/d8cdca93-36b7-41e4-9ca8-756674927e30" />
+
 
 
 
@@ -43,7 +44,7 @@ void caesarCipher(char *text, int shift)
  }
 int main() 
 {
-    char text[] = "VARSHA";
+    char text[] = "DHARSAN";
     caesarCipher(text, 3);
     printf("Encrypted Message: %s\n", text);
     caesarCipher(text,-3);
@@ -56,4 +57,4 @@ int main()
 
 
 OUTPUT :-
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/9083991c-8054-4d50-9162-c1b3001535c1" />
+<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/d8cdca93-36b7-41e4-9ca8-756674927e30" />
